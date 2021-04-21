@@ -1,2 +1,4 @@
+Streamlit
 pandas
-streamlit
+matplotlib
+seaborn
